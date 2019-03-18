@@ -1,0 +1,6 @@
+C:\Users\79521\source\repos\Evsyunina_Maria_Task01\Task5\bin\Debug\Task5.exe.config
+C:\Users\79521\source\repos\Evsyunina_Maria_Task01\Task5\bin\Debug\Task5.exe
+C:\Users\79521\source\repos\Evsyunina_Maria_Task01\Task5\bin\Debug\Task5.pdb
+C:\Users\79521\source\repos\Evsyunina_Maria_Task01\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\79521\source\repos\Evsyunina_Maria_Task01\Task5\obj\Debug\Task5.exe
+C:\Users\79521\source\repos\Evsyunina_Maria_Task01\Task5\obj\Debug\Task5.pdb

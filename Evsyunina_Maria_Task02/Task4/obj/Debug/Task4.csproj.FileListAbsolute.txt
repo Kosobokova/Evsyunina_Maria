@@ -1,0 +1,10 @@
+C:\Users\79521\source\repos\Evsyunina_Maria_Task02\Task4\bin\Debug\Task4.exe.config
+C:\Users\79521\source\repos\Evsyunina_Maria_Task02\Task4\bin\Debug\Task4.exe
+C:\Users\79521\source\repos\Evsyunina_Maria_Task02\Task4\bin\Debug\Task4.pdb
+C:\Users\79521\source\repos\Evsyunina_Maria_Task02\Task4\obj\Debug\Task4.csprojAssemblyReference.cache
+C:\Users\79521\source\repos\Evsyunina_Maria_Task02\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+C:\Users\79521\source\repos\Evsyunina_Maria_Task02\Task4\obj\Debug\Task4.exe
+C:\Users\79521\source\repos\Evsyunina_Maria_Task02\Task4\obj\Debug\Task4.pdb
+C:\Users\79521\source\repos\Evsyunina_Maria_Task02\Task4\bin\Debug\Library.dll
+C:\Users\79521\source\repos\Evsyunina_Maria_Task02\Task4\bin\Debug\Library.pdb
+C:\Users\79521\source\repos\Evsyunina_Maria_Task02\Task4\obj\Debug\Task4.csproj.CopyComplete

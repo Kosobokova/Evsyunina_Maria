@@ -1,0 +1,6 @@
+J:\Evsyunina_Maria_Task07\Demo\bin\Debug\Demo.exe.config
+J:\Evsyunina_Maria_Task07\Demo\obj\Debug\Demo.csprojResolveAssemblyReference.cache
+J:\Evsyunina_Maria_Task07\Demo\bin\Debug\Demo.exe
+J:\Evsyunina_Maria_Task07\Demo\bin\Debug\Demo.pdb
+J:\Evsyunina_Maria_Task07\Demo\obj\Debug\Demo.exe
+J:\Evsyunina_Maria_Task07\Demo\obj\Debug\Demo.pdb

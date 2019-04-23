@@ -1,0 +1,6 @@
+J:\Evsyunina_Maria_Task07\Task3\bin\Debug\Task3.exe.config
+J:\Evsyunina_Maria_Task07\Task3\bin\Debug\Task3.exe
+J:\Evsyunina_Maria_Task07\Task3\bin\Debug\Task3.pdb
+J:\Evsyunina_Maria_Task07\Task3\obj\Debug\Task3.csprojResolveAssemblyReference.cache
+J:\Evsyunina_Maria_Task07\Task3\obj\Debug\Task3.exe
+J:\Evsyunina_Maria_Task07\Task3\obj\Debug\Task3.pdb

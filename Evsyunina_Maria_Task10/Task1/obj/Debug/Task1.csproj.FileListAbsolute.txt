@@ -1,0 +1,13 @@
+C:\Users\adm_kav\source\repos\Evsyunina_Maria_Task10\Task1\bin\Debug\Task1.exe.config
+C:\Users\adm_kav\source\repos\Evsyunina_Maria_Task10\Task1\bin\Debug\Task1.exe
+C:\Users\adm_kav\source\repos\Evsyunina_Maria_Task10\Task1\bin\Debug\Task1.pdb
+C:\Users\adm_kav\source\repos\Evsyunina_Maria_Task10\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\adm_kav\source\repos\Evsyunina_Maria_Task10\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\adm_kav\source\repos\Evsyunina_Maria_Task10\Task1\obj\Debug\Task1.exe
+C:\Users\adm_kav\source\repos\Evsyunina_Maria_Task10\Task1\obj\Debug\Task1.pdb
+J:\Evsyunina_Maria_Task10\Task1\bin\Debug\Task1.exe.config
+J:\Evsyunina_Maria_Task10\Task1\obj\Debug\Task1.exe
+J:\Evsyunina_Maria_Task10\Task1\obj\Debug\Task1.pdb
+J:\Evsyunina_Maria_Task10\Task1\bin\Debug\Task1.exe
+J:\Evsyunina_Maria_Task10\Task1\bin\Debug\Task1.pdb
+J:\Evsyunina_Maria_Task10\Task1\obj\Debug\Task1.csprojResolveAssemblyReference.cache

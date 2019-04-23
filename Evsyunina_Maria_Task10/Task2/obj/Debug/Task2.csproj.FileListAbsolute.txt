@@ -1,0 +1,7 @@
+C:\Users\adm_kav\source\repos\Evsyunina_Maria_Task10\Task2\bin\Debug\Task2.exe.config
+C:\Users\adm_kav\source\repos\Evsyunina_Maria_Task10\Task2\bin\Debug\Task2.exe
+C:\Users\adm_kav\source\repos\Evsyunina_Maria_Task10\Task2\bin\Debug\Task2.pdb
+C:\Users\adm_kav\source\repos\Evsyunina_Maria_Task10\Task2\obj\Debug\Task2.csprojAssemblyReference.cache
+C:\Users\adm_kav\source\repos\Evsyunina_Maria_Task10\Task2\obj\Debug\Task2.csproj.CoreCompileInputs.cache
+C:\Users\adm_kav\source\repos\Evsyunina_Maria_Task10\Task2\obj\Debug\Task2.exe
+C:\Users\adm_kav\source\repos\Evsyunina_Maria_Task10\Task2\obj\Debug\Task2.pdb

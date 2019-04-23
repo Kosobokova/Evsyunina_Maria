@@ -1,0 +1,6 @@
+D:\Evsyunina_Maria_task13\ClassExceptions\bin\Debug\ClassExceptions.dll
+D:\Evsyunina_Maria_task13\ClassExceptions\bin\Debug\ClassExceptions.pdb
+D:\Evsyunina_Maria_task13\ClassExceptions\obj\Debug\ClassExceptions.csprojAssemblyReference.cache
+D:\Evsyunina_Maria_task13\ClassExceptions\obj\Debug\ClassExceptions.csproj.CoreCompileInputs.cache
+D:\Evsyunina_Maria_task13\ClassExceptions\obj\Debug\ClassExceptions.dll
+D:\Evsyunina_Maria_task13\ClassExceptions\obj\Debug\ClassExceptions.pdb
